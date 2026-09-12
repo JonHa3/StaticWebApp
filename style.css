@@ -192,3 +192,22 @@ form button {
 form button:hover {
     background-color: #564fd8;
 }
+
+/* ---------- Card description text ---------- */
+.card-desc {
+    text-align: left;
+    color: #555;
+    font-size: 0.9rem;
+    margin-top: 0.6rem;
+    line-height: 1.4;
+}
+
+/* ---------- Footer ---------- */
+footer {
+    text-align: center;
+    padding: 1.2rem;
+    margin-top: 2rem;
+    background-color: #2b2b3d;
+    color: #cfcfcf;
+    font-size: 0.85rem;
+}
